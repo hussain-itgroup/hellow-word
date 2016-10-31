@@ -1,2 +1,2 @@
 # hellow-word
-hellow word test descrption
+hellow word 
